@@ -56,35 +56,35 @@ $result=$con->query($sql);
 		<div class="content">
 			<div class="menu">
 			<p>
-			<a href="index.html" style= "color:#000000;">Home</a>
+			<a href="index.php" style= "color:#000000;">Home</a>
 			</p>
 			
 			<p>
-			<a href="tingkatan_1.html" style= "color:#000000;"> Tingkatan 1</a>
+			<a href="tingkatan_1.php" style= "color:#000000;"> Tingkatan 1</a>
 			</p>
 			
 			<p>
-			<a href= "tingkatan_2.html" style= "color:#000000;">Tingkatan 2 </a>
+			<a href= "tingkatan_2.php" style= "color:#000000;">Tingkatan 2 </a>
 			</p>
 			
 			<p>
-			<a href="tingkatan_3.html" style= "color:#000000;">Tingkatan 3</a>
+			<a href="tingkatan_3.php" style= "color:#000000;">Tingkatan 3</a>
 			</p>
 			
 			<p>
-			<a href="tingkatan_4.html" style= "color:#000000;">Tingkatan 4</a>
+			<a href="tingkatan_4.php" style= "color:#000000;">Tingkatan 4</a>
 			</p>	
 			
 			<p>		
-			<a href="tingkatan_5.html" style= "color:#000000;">Tingkatan 5</a>
+			<a href="tingkatan_5.php" style= "color:#000000;">Tingkatan 5</a>
 			</p>
 			
 		
 			
 			<p>		
 			Key-in Maklumat
-			- <a href="input01.html" style= "color:#000000;">Menengah Rendah</a> <br>
-			- <a href="input02.html" style= "color:#000000;">Menengah Atas</a>
+			- <a href="input01.php" style= "color:#000000;">Menengah Rendah</a> <br>
+			- <a href="input02.php" style= "color:#000000;">Menengah Atas</a>
 			</p>
 			
 			
@@ -94,11 +94,11 @@ $result=$con->query($sql);
 		
 		<p><center>Kelas Tingkatan 4</center></p>
 		 
-				<button><a href="empat_b.html">4 Bestari</a></button>
-				<button><a href="empat_c.html">4 Cendekiawan </a></button>
-				<button><a href="empat_d.html">4 Dinamik</a></button>
-				<button><a href="empat_e.html">4 Elit</a></button>
-				<button><a href="empatabcd.html">Seluruh tingkatan</a></button>
+				<button><a href="empat_b.php">4 Bestari</a></button>
+				<button><a href="empat_c.php">4 Cendekiawan </a></button>
+				<button><a href="empat_d.php">4 Dinamik</a></button>
+				<button><a href="empat_e.php">4 Elit</a></button>
+				<button><a href="empatabcd.php">Seluruh tingkatan</a></button>
 				
 		</div>
 		
